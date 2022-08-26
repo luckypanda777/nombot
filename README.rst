@@ -109,7 +109,7 @@ Installation
 
 .. code:: bash
 
-    git clone https://github.com/karma0/nombot.git nombot && cd $_
+    git clone https://github.com/devCrypto715/nombot.git nombot && cd $_
     pip install requests numpy pandas
 
 Upgrading to the latest
